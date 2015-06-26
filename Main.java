@@ -12,7 +12,7 @@ class Main {
 		Scanner s= new Scanner(System.in);
 		comeco.inteiro=s.nextInt();
 		fim.inteiro=s.nextInt();
-
+		comeco.eh_inteiro(comeco,fim);
 
 
 
