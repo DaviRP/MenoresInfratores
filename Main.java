@@ -5,7 +5,11 @@ import java.io.*;
 
 
 class Main {
-    public static void main(String args[]) throws Exception {
+    public static void main(String args[])be {
+        
+        
+        
+        
         
         
         
