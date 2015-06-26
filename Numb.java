@@ -15,7 +15,7 @@ class Numb{
             for(j=0;j<Comeco.inteiro;j++){
                 
                 
-                if(j%2=0){
+                if(j%2==0){
                     
                     count++;
                     
