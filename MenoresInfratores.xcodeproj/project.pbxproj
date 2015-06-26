@@ -10,6 +10,7 @@
 		085836731B3D697B00A495B3 /* Main.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Main.java; sourceTree = "<group>"; };
 		085836751B3D6B2000A495B3 /* Numb.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Numb.java; sourceTree = "<group>"; };
 		085836761B3D6CFF00A495B3 /* Colecao.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Colecao.java; sourceTree = "<group>"; };
+		085836771B3D706F00A495B3 /* palavras.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = palavras.java; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -17,6 +18,7 @@
 			isa = PBXGroup;
 			children = (
 				085836751B3D6B2000A495B3 /* Numb.java */,
+				085836771B3D706F00A495B3 /* palavras.java */,
 				085836761B3D6CFF00A495B3 /* Colecao.java */,
 				085836731B3D697B00A495B3 /* Main.java */,
 			);
