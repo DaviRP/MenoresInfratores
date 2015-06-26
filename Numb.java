@@ -9,7 +9,7 @@ class Numb{
         int j;
         
         
-        for(Comeco.inteiro=0;Comeco.inteiro<=Fim.inteiro;Comeco.inteiro++){
+        for(;Comeco.inteiro<=Fim.inteiro;Comeco.inteiro++){
             
             
             for(j=1;j<=Comeco.inteiro;j++){
