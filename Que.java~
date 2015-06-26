@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.*;
 
 
-class Main {
+class Que {
 
     public static void main(String args[]) throws Exception {
 		Numb comeco= new Numb();
@@ -12,7 +12,7 @@ class Main {
 		Scanner s= new Scanner(System.in);
 		comeco.inteiro=s.nextInt();
 		fim.inteiro=s.nextInt();
-		//comeco.eh_inteiro(comeco,fim);
+		comeco.eh_inteiro(comeco,fim);
         
     }
 }

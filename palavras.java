@@ -1,9 +1,11 @@
 class palavras{
     
-    string palavra;
+    String palavra;
     
     
-    public void 
+    public void nada(){
+    	System.out.print("nada");
+    }
     
     
 }

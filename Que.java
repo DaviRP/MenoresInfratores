@@ -8,20 +8,23 @@ class Que {
 		Numb comeco= new Numb();
 		Numb  fim= new Numb();
 		Numb count=new Numb();
+		Numb zero=new Numb();
         Numb j=new Numb();
+        Numb k= new Numb();
+        k.inteiro++;
+        k.inteiro++;
 
 		Scanner s= new Scanner(System.in);
 		comeco.inteiro=s.nextInt();
 		fim.inteiro=s.nextInt();
-//		comeco.eh_inteiro(comeco,fim);
 
         for(;comeco.inteiro<=fim.inteiro;comeco.inteiro++){
             
-            
-            for(j.inteiro=1;j.inteiro<=comeco.inteiro;j.inteiro++){
+            count=new Numb();
+            j=new Numb();
+            for(j.inteiro++;j.inteiro<=comeco.inteiro;j.inteiro++){
                 
-                
-                if(comeco.inteiro%j.inteiro==0){
+                if(comeco.inteiro%j.inteiro==zero.inteiro){
                     
                     count.inteiro++;
                     
@@ -32,13 +35,13 @@ class Que {
                 
             }
             
-            if(count.inteiro==2){
+            if(count.inteiro==k.inteiro){
                 
                 System.out.println(comeco.inteiro);
                 
             }
                 
-            count=new Numb();
+            
             
         }
         
